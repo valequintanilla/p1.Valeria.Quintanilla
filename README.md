@@ -1,7 +1,8 @@
 # p1.Valeria.Quintanilla
 # Project 1
 
-[Elevator](/images/valeria.quintanilla.png)
+[Elevator]([/images/valeria.quintanilla.png](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png))
+
 **Positives and Negatives about current Design**
 
 - The README page is the only page you can interact, so you may want to include all resources/links on this page :)
