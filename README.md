@@ -37,8 +37,6 @@
 
 
 
-- Explain why it is bad.
-
 ### Getting B:
 - Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
 
@@ -48,9 +46,17 @@
 
 - How does the elevator provide feedback to the user?
 
-- What are some common mistakes you can make with this current design?
 
-- Suggest the improvements to make on the control interface. Sketch your solution. And justify your design decisions.
+### Mistakes and Imporvements
+- Missing audio feedback.
+- Improvement: adding a sound to notify user that they are on the right floor.
+- Missing visibility of system status.
+- Improvement: Adding a screen that illustrates the movement of the elevator(if it is going up or down and what floor)
+
+- Missing a Braille Inscription
+- For people with loss of vision it will be helpful to have a braille inscription to be able to operate the elevator a lot easier.
+- Improvement: adding Braille Inscription on the buttons.
+- Other Improvements: Rearranging the order of the buttons and adding a cancel button.
 
 ### Getting A
 
