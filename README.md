@@ -19,13 +19,16 @@
 
 ### Getting C:
 
-**Positives and Negatives about current Design**
 ![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/Valeria_Quintanilla.png)
 
 ![elevator gif](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.gif)
+**Positives and Negatives about current Design**
 
+*Positives*
+Visual feedback.
+Very specific button names.
+Good lighting.
 
-- Find the issues with the current design.
 
 - Explain why it is bad.
 
