@@ -22,12 +22,19 @@
 ![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/Valeria_Quintanilla.png)
 
 ![elevator gif](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.gif)
-**Positives and Negatives about current Design**
+### Positives and Negatives about current Design:
 
-*Positives*
-Visual feedback.
-Very specific button names.
-Good lighting.
+**Positives**
+- Visual feedback.
+- Very specific button names.
+- Good lighting.
+
+**Negatives**
+- Order of the buttons
+- No Braille inscription
+- No audio feedback.
+- Does not keep the user informed of what is going on through appropriate feedback.
+
 
 
 - Explain why it is bad.
