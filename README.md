@@ -2,7 +2,7 @@
 # Project 1
 
 ![sketch](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png)
-![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/Valeria_Quintanilla.png)
+
 
 ---
 
@@ -22,8 +22,8 @@
 **Positives and Negatives about current Design**
 ![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/Valeria_Quintanilla.png)
 
+![elevator gif](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.gif)
 
--  Show a gif image of the control interface in operation.
 
 - Find the issues with the current design.
 
