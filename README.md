@@ -1,17 +1,8 @@
 # p1.Valeria.Quintanilla
 # Project 1
 
-![sketch](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png))
+![sketch](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png)
 ![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/Valeria_Quintanilla.png)
-**Positives and Negatives about current Design**
-
-- The README page is the only page you can interact, so you may want to include all resources/links on this page :)
-
-- **Presentation page:** Go to Settings -> GitHub Pages -> Source: Master branch, to deploy your GitHub page from README. 
-
-- The content of **this** README would be in your GitHub page if there's no index.html file in the main folder.
-
-The report starts from this line
 
 ---
 
@@ -27,9 +18,10 @@ The report starts from this line
 
 
 ### Getting C:
-- Find an elevator in the apartment/campus/hotel. Only one example for each student: The elevator in the ECE building
 
-- Take photos of the control interface
+**Positives and Negatives about current Design**
+![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/Valeria_Quintanilla.png)
+
 
 -  Show a gif image of the control interface in operation.
 
