@@ -32,6 +32,8 @@
 **Negatives**
 - Order of the buttons
 - No Braille inscription
+  -For people with loss of vision it will be helpful to have a braille inscription to be able to operate the elevator a lot easier.
+
 - No audio feedback.
 - Does not keep the user informed of what is going on through appropriate feedback.
 
