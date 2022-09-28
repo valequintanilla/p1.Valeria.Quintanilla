@@ -1,7 +1,7 @@
 # p1.Valeria.Quintanilla
 # Report 
 
-**Important Note:**
+**Project 1**
 
 - The README page is the only page you can interact, so you may want to include all resources/links on this page :)
 
