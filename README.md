@@ -48,15 +48,16 @@
 
 
 ### Mistakes and Imporvements
-- Missing audio feedback.
--- Improvement: adding a sound to notify user that they are on the right floor.
-- Missing visibility of system status.
+**Missing audio feedback**
+- Improvement: adding a sound to notify user that they are on the right floor.
+**Missing visibility of system status**
 - Improvement: Adding a screen that illustrates the movement of the elevator(if it is going up or down and what floor)
 
-- Missing a Braille Inscription
+**Missing a Braille Inscription**
 - For people with loss of vision it will be helpful to have a braille inscription to be able to operate the elevator a lot easier.
 - Improvement: adding Braille Inscription on the buttons.
-- Other Improvements: Rearranging the order of the buttons and adding a cancel button.
+**Other Improvements**
+- Rearranging the order of the buttons and adding a cancel button.
 
 ### Getting A
 
