@@ -17,7 +17,7 @@
 [Video (optional)](https://www.youtube.com/embed/uilkmUoXoLU) (e.g. https://www.youtube.com/embed/uilkmUoXoLU - embed link)
 
 
-### Getting C:
+##Current Design
 
 ![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/Valeria_Quintanilla.png)
 
