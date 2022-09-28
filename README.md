@@ -1,7 +1,7 @@
 # p1.Valeria.Quintanilla
-# Report 
+# Project 1
 
-**Project 1**
+**Positives and Negatives about current Design**
 
 - The README page is the only page you can interact, so you may want to include all resources/links on this page :)
 
