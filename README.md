@@ -1,7 +1,7 @@
 # p1.Valeria.Quintanilla
 # Project 1
 
-![Ele](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png))
+![sketch](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png))
 
 **Positives and Negatives about current Design**
 
