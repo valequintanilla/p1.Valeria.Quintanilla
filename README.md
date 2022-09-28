@@ -49,7 +49,7 @@
 
 ### Mistakes and Imporvements
 - Missing audio feedback.
-- Improvement: adding a sound to notify user that they are on the right floor.
+-- Improvement: adding a sound to notify user that they are on the right floor.
 - Missing visibility of system status.
 - Improvement: Adding a screen that illustrates the movement of the elevator(if it is going up or down and what floor)
 
