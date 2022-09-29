@@ -32,19 +32,17 @@
 **Negatives**
 - Order of the buttons
 - No Braille inscription: For people with loss of vision it will be helpful to have a braille inscription to be able to operate the elevator a lot easier.
-- No audio feedback
+- No audio feedback.
 - Does not keep the user informed of what is going on through appropriate feedback.
 
 
 
-### Getting B:
+### Common Uses
 - Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
-
-- Think about how the user interacts with the elevator. What is the common sequence of actions?
-
-- How does the elevator support the user figure out how to make it work?
-
-- How does the elevator provide feedback to the user?
+- The most common uses of an elevator are : pressing the buttons to indicate which floor you tend to go, pressing the open and close buttons to open and close the door.
+- Elevators can also be used to transfer heavy things from one floor to another which might be difficult by using the stairs.
+- The most rare uses for an elevator is using the emergency button, however its still very important to include this button.
+- The elevator provides feedback by turning on the light of the button when is pressed, it turns off when it arrives to the desired floor. Usually the elevators have audio feedback but this one did not.
 
 
 ### Mistakes and Imporvements
@@ -59,11 +57,9 @@
 **Other Improvements**
 - Rearranging the order of the buttons and adding a cancel button.
 
-### Getting A
+### New Design
 
-- Now, imagine that you can have a touch screen on the elevator
-
-- Come with your design for the touch screen? What is the screen size that you want?
+![sketch](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png)
 
 - Design and implement interactive features
 
