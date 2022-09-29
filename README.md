@@ -60,6 +60,6 @@
 
 - Code Output
 
-![Output(]https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla2.gif)
+![Output](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla2.gif)
 
 
