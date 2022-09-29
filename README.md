@@ -7,7 +7,8 @@
 ### Links
 [Presentation page][(https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/README.md)]
 
-[GitHub repository](https://github.com/huyen-nguyen/hci-template) (e.g. https://github.com/huyen-nguyen/hci-template)
+[GitHub repository]
+[(https://github.com/valequintanilla/p1.Valeria.Quintanilla)]
 
 [Demo](https://huyen-nguyen.github.io/hci-template/demo.html) (e.g. https://huyen-nguyen.github.io/hci-template/demo.html, the demo file **should not** be named index.html)
 
