@@ -1,9 +1,6 @@
 # p1.Valeria.Quintanilla
 # Project 1
 
-![sketch](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png)
-
-
 ---
 
 
@@ -61,14 +58,8 @@
 
 ![sketch](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/P1.Valeria.Quintanilla.png)
 
-- Design and implement interactive features
+- Code Output
 
-- Design and implement user feedback
+![Output(]https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla2.gif)
 
-### Extra credits:
 
-- Your design supports people with disabilities
-
-- You provide extra useful information on the display interface.
-
-- Your imagination ...
