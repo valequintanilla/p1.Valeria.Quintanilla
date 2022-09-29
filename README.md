@@ -12,9 +12,6 @@
 
 [Demo](https://huyen-nguyen.github.io/hci-template/demo.html) (e.g. https://huyen-nguyen.github.io/hci-template/demo.html, the demo file **should not** be named index.html)
 
-[Video (optional)](https://www.youtube.com/embed/uilkmUoXoLU) (e.g. https://www.youtube.com/embed/uilkmUoXoLU - embed link)
-
-
 ##Current Design
 
 ![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/Valeria_Quintanilla.png)
