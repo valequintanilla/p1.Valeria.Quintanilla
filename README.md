@@ -59,7 +59,7 @@
 
 ![Output](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla2.gif)
 
--Code link:
-![Code](https://github.com/valequintanilla/p1.Valeria.Quintanilla/tree/main/Project%20Code)
+[Code link]
+(https://github.com/valequintanilla/p1.Valeria.Quintanilla/tree/main/Project%20Code)
 
 
