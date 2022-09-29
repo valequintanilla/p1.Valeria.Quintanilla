@@ -5,7 +5,7 @@
 
 
 ### Links
-[Presentation page](https://huyen-nguyen.github.io/hci-template) (e.g. https://huyen-nguyen.github.io/hci-template, contains content of this README)
+[Presentation page][(https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/README.md)]
 
 [GitHub repository](https://github.com/huyen-nguyen/hci-template) (e.g. https://github.com/huyen-nguyen/hci-template)
 
