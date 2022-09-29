@@ -10,8 +10,7 @@
 [GitHub repository]
 [(https://github.com/valequintanilla/p1.Valeria.Quintanilla)]
 
-[Demo](https://huyen-nguyen.github.io/hci-template/demo.html) (e.g. https://huyen-nguyen.github.io/hci-template/demo.html, the demo file **should not** be named index.html)
-
+[Code](https://github.com/valequintanilla/p1.Valeria.Quintanilla/tree/main/Project%20Code)
 ##Current Design
 
 ![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/Valeria_Quintanilla.png)
