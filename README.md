@@ -13,7 +13,7 @@
 [Code](https://github.com/valequintanilla/p1.Valeria.Quintanilla/tree/main/Project%20Code)
 ##Current Design
 
-![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/Valeria_Quintanilla.png)
+![elevator](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.JPG)
 
 ![elevator gif](https://github.com/valequintanilla/p1.Valeria.Quintanilla/blob/main/Images/p1.Valeria.Quintanilla.gif)
 ### Positives and Negatives about current Design:
